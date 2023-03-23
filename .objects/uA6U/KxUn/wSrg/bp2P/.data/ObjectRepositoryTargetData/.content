@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0R_D3gZzKEyMMeeUsXuqDw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.btkakademi.gov.tr/portal/catalog?categoryId=353" DesignTimeRectangle="549, 530, 228, 24" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Uçtan Uca WordPress'" FullSelectorArgument="&lt;webctrl aaname='Uçtan Uca WordPress' parentid='container-toggle' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='container-toggle' tag='DIV' type='' class='font-medium text-base' /&gt;" Guid="4b4515ea-1c6f-49f0-bab8-baa37ff8c1d0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Akademi' /&gt;" SearchSteps="FuzzySelector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="85f1ceaed8d0a97b182808855b0777e3.png" xmlns="">0YsTm7xaBC0iUjzvjbNvlMA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

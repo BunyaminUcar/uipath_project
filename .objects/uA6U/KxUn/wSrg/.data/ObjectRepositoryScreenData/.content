@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="l50Gkji6xUGpjX4OT0RB7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxEAAAsRAX9kX5EAAAGoSURBVFhH7ZfBccIwFERTAiVQAocUQAE5pISUkBIogVtuGUrIIQWkBEpICXTg7Hr0mT+eZ0smmuTC4Q326rN/kWXZPAzD8K+gGDy+f+7FicZ6gWJQAgziSOM9QDFIAb7Eq9hR3W9AMZgEOIiL6BoCxUDNpgF8fKDaW0ExUDMMID7EJtXdvFBRDGQ8F8DnZ7ERJ6Fy9qiBYiDjpQA+jnGVs0cNFIPU4B7gHqAW4EzfbwHFIDVYCjDejqV+9SaFYlAaLAV4EkfxLLwfrN6QUAxk2DIDoRvvkFvymgPFQGYtAXblOPgWL+RHoJiRmad2LoAvgZ+Q/uU+fxPNzQ2KU2wqMECqsW48I9eFWQNFophPA+wnNeO5Pj1rTSFQJGRWDZBq/fY01tJ4BkXCZmEqagF8a3r8QuMZFAmZNQWQ5ncEL0yPm8VXOBQJGWEA4dvOU+7G3pB8Hs3HGvILUCRkdL2uIgfIzYhuAbbFcE2AfmvAyNAbzpoA1WcDinPI0NfZm1JLAC/EfvtARsbjm7CYC+CF2PQHBsUW1MArPtZFbuxL1LQNGxT/juHhB7BlAGK0JXEVAAAAAElFTkSuQmCC" Selector="&lt;html app='chrome.exe' title='Akademi' /&gt;" Title="Akademi" Url="https://www.btkakademi.gov.tr/portal/catalog?categoryId=353">
+      <imageRef attrName="InformativeScreenshot" originalValue="d5e781b4eb7b8ddd49cca9218bf4cf31.jpg" xmlns="">0iQq_blG04UmR9tVi-rihqA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

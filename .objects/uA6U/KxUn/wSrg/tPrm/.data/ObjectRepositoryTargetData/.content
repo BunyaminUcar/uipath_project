@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ct7oNPfeIU2WB2Zhw4Q5ew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.btkakademi.gov.tr/portal/catalog?categoryId=353" DesignTimeRectangle="721, 641, 24, 20" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'163'" FullSelectorArgument="&lt;webctrl aaname='163' parentid='container-toggle' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='container-toggle' tag='SPAN' type='' class='mr-2 font-medium text-sm order-0 mx-1' /&gt;" Guid="37012103-f51e-4892-8eae-005e1cab2419" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Akademi' /&gt;" SearchSteps="FuzzySelector" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1026, 641, 29, 20" ElementType="Text" FriendlyName="'1.6K'" FullSelectorArgument="&lt;webctrl aaname='1.6K' parentid='container-toggle' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='1.6K' parentid='container-toggle' tag='SPAN' type='' class='mr-2 font-medium text-sm order-0 mx-1' check:innerText='1.6K' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACEAAAAYCAYAAAB0kZQKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHASURBVEhL7ZMxa8JgEIb7Szp0UtBFly4dKtihInQRoahQEHTpkkWRLIIiorQRbHGwhShqqS4JEikfSP7Z2/tMvkRjoFKhdcjworm7nI93752dX4Tx3woghAIIodODiCbuUap28DrTwdY6erndYj+FbiV0J7zehDmS3VyuD8M0YSgFN5aUoTKqM6l3IebEtyCogF4y18xqaK5+hAgVnqHx2i8dqtKEXM64eS9EpIiexvsyqLWUW0fagsgg+3CDKH3PKqsDIDJoLajpso98xCe/A5FCZcSopwlNKSLkqfX1xEEQ6Q7mvOlkbE2DT1F7h5S08w5EEXlF3+QZrSvh7UP6PURtbP0weWfYqEN++gDjz4sO0jxvQzCN/LKpG6MS9/SwdTTEVBYGi0F64yNfoJWmZxvCArU+jcHj3iq4joZQa25s5z0BYfAVpVD/5CBkyur1bh/S7yHEzl/KdiyG0mB/Es51JOuY8vNktBbhG1uHQ1zJGC4Z5h1x9+LfraC2yRPtseUBMt8lz3shSAmaHveH16CHQ9jXwAaSG4uX0Z3xWmvn2qTpnqsPxPapzht3jj98If5aAYRQACEUQAidAEQY337UKogiSk4vAAAAAElFTkSuQmCC" SearchSteps="FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="55cc1c8613b5a191762917eebc8a75e2.png" xmlns="">0clwR_fmDfEGPo6Cg90kF8A</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

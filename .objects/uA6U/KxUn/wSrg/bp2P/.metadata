@@ -1,0 +1,14 @@
+﻿{
+  "Id": "bp2PNrl9b0-tgN8gFd-E0w",
+  "Reference": "pt2iUyMdjEi5NkyQo6yiow/bp2PNrl9b0-tgN8gFd-E0w",
+  "ParentRef": "pt2iUyMdjEi5NkyQo6yiow/wSrgAFqXjEmhY-OzavWj5w",
+  "Name": "Uçtan Uca WordPress",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-03-21T20:43:24.5485484Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-21T20:43:24.5485484Z"
+}

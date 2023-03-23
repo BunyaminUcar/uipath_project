@@ -1,0 +1,13 @@
+﻿{
+  "Id": "wSrgAFqXjEmhY-OzavWj5w",
+  "Reference": "pt2iUyMdjEi5NkyQo6yiow/wSrgAFqXjEmhY-OzavWj5w",
+  "ParentRef": "pt2iUyMdjEi5NkyQo6yiow/KxUn48jaV06l0TP-o-YPMw",
+  "Name": "Chrome: Akademi",
+  "Type": "Screen",
+  "Created": "2023-03-21T20:41:34.7894558Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-21T20:41:34.7894558Z"
+}
